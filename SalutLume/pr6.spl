@@ -1,0 +1,5 @@
+inceput lasa $set1!! lasa $set2!! lasa $set3!! lasa ~sir!! pentru ~mesaj in $intrare0 executa ~sir <- "a"|-|~mesaj!! $set1 <- $set1 adauga ~sir!! terminat pentru ~mesaj in $intrare1 executa ~sir <- "b"|-|~mesaj!! $set2 <- $set2 adauga ~sir!! terminat pentru ~mesaj in $set1 executa $set3 <- $set3 adauga ~mesaj!! terminat pentru ~mesaj in $set2 executa $set3 <- $set3 adauga ~mesaj!! terminat afiseaza $set3!! sfarsit 
+	
+
+
+

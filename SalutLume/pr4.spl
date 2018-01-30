@@ -1,0 +1,1 @@
+inceput lasa $set!! lasa ~sir!! lasa [^]numar <- 0!! pentru ~mesaj in $intrare0 executa ~sir <- ~mesaj!! pentru [^]numar < ca [^]CONTORIZARE executa $set <- $set adauga ~sir!! ~sir <- ~sir |-| "a"!! [^]numar <- [^]numar + 1!! terminat [^]numar <- 0!! terminat afiseaza $set!! sfarsit
